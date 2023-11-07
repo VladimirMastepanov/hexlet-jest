@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "tests jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VladimirMastepanov/hexlet-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirMastepanov/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/VladimirMastepanov/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
